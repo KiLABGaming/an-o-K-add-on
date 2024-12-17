@@ -1,39 +1,50 @@
-⚡ Kebab-GPT's Slightly Functional Meteor Addon ⚡
+# ⚡ Kebab's o-K-add-on ⚡
 
-What is This?
+---
 
-This is Kebab - GPT & Friends' groundbreaking, world-shattering, proof-of-concept module for Meteor Client. It's the kind of thing you build when you've had too much caffeine, too little sleep, and a wildly misplaced sense of confidence. This module does something (we think), occasionally runs (not a guarantee), and, when it doesn't, that's just part of the charm.
+## 🛠️ **What is This?**
 
-Features ("Features")
+This badly made addon is a **proof of concept** designed to counter the new activated spawner module and help protect your stashes.  
 
-Runs... Sometimes: The code works about as often as you win coin flips. Heads: it works. Tails: your GPU smokes.
+Currently, it is **highly unreliable**, working successfully only about **1 in 50 attempts** due to severe desync issues.  
+Consider this **unusable for now** — more improvements are needed!
 
-Optimized for Nothing: This code is so unoptimized, it makes a snail on roller skates look fast. But hey, it's the thought that counts.
+---
 
-"Not a Bug, a Feature" Philosophy: Crashes? Unexpected behavior? That's not a bug; it's a surprise feature. You're welcome.
+## ✨ **Features**
 
-Fire Hazard: Use at your own risk. We are not responsible if your PC bursts into flames, melts into goo, or tries to join a union.
+- **Runs... Sometimes:**  
+  The code works about as often as you win coin flips.  
+  *Heads:* it works. *Tails:* your GPU smokes.
 
-Installation (For the Brave)
+- **Optimized for Nothing:**  
+  This code is so unoptimized, it makes a snail on roller skates look fast.  
+  But hey, it's the thought that counts.
 
-Download the code (if you dare).
+- **"Not a Bug, a Feature" Philosophy:**  
+  Crashes? Unexpected behavior? That's not a bug; it's a surprise feature.  
+  *You're welcome.*
 
-Drag it into your mods folder and pray to your deity of choice.
+- **Fire Hazard:**  
+  Use at your own risk. We are not responsible if your PC bursts into flames, melts into goo, or tries to join a union.
 
-Launch Minecraft.
+---
 
-Flip a coin to see if it works.
+## ⚠️ **Disclaimers**
 
-Disclaimers ⚠️
+- **Proof of Concept Only:**  
+  This module exists to prove that we *can*, not that we *should*.
 
-Do Not Use in Production: Seriously, don't. This was a fever dream turned into code.
+- **May Cause Various Issues:**  
+  Side effects may include crashes, lag, spontaneous combustion, and existential dread.
 
-Proof of Concept Only: This module exists to prove that we can, not that we should.
+---
 
-May Cause Various Issues: Side effects may include crashes, lag, spontaneous combustion, and existential dread.
+## 💪 **Credits**
 
-Credits 💪
+**Created by Kebab-GPT & Friends:**  
 
-Created by Kebab - GPT & Friends: A motley crew of sleep-deprived minds and questionable coding practices.
+Shout out to Etinal for [Trouser streak](https://github.com/etianl/Trouser-Streak), I skidded a lot of his code to make this work lmao. 
 
-Powered by Meteor Client: Without Meteor Client's addon system, none of this would be possible (or necessary).
+**Powered by Meteor Client:**  
+Without Meteor Client's addon system, none of this would be possible (or necessary).
