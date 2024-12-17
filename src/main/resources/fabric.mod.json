@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "k-addon",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "an-o-K-add-on",
+  "description": "Subscribe to KiLAB Gaming",
   "authors": [
-    "seasnail"
+    "Kebab - GPT & Friends"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "nothanks"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
@@ -17,6 +17,7 @@
       "com.example.addon.AddonTemplate"
     ]
   },
+  "accessWidener": "addon.accesswidener",
   "mixins": [
     "addon-template.mixins.json"
   ],

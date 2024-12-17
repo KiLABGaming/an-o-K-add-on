@@ -19,6 +19,10 @@ repositories {
     }
 }
 
+loom {
+    accessWidenerPath = file("src/main/resources/addon.accesswidener")
+}
+
 dependencies {
     // Fabric
     minecraft "com.mojang:minecraft:${project.minecraft_version}"
